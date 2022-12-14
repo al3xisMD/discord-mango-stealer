@@ -4,7 +4,8 @@
 
 # PREVIEW
 
-![Screenshot 2022-12-01 220008](https://user-images.githubusercontent.com/120185891/207685186-e20e370c-7aa6-4882-b1ec-3a5a0d7a4886.png)
+![mango stealer](https://user-images.githubusercontent.com/120185891/207686025-9c2d2727-8e8a-486a-b996-684cbb16a726.png)
+
 
 # INSTALLATIONS
 
